@@ -1,0 +1,17 @@
+Befehle Geben
+Befehle Folgen
+Ihr habt den gleichen Rang
+D-Bois entkommen
+Nerds überlebt
+Getötet von SCPs
+Terminierte SCPs
+Alpha Warhead
+Detoniert
+Unbenutzt
+Die nächste Runde wird in [time] Sekunden starten.
+SPECIAL ABILITY
+Portal Erstellen
+Portal Benutzen
+Du wurdest Geoofed
+Getötet von:
+Als:

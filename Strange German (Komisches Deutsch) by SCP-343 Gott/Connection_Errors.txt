@@ -1,0 +1,19 @@
+<size=80>YOU HAVE BEEN KICKED</size>\nVielleicht gebannt?
+<size=80>Verbindung Getrennt</size>\nDer Host ist nicht erreichbar
+<size=80>Verbindung Getrennt</size>\nDas Ding existiert nicht1.
+<size=80>Verbindung Getrennt</size>\nDas Ding existiert nicht2.
+<size=80>Verbindung Getrennt</size>\nDer Server ist voll, du Idiot.
+<size=80>Verbindung Getrennt</size>\nDas falsche Paket bekommen. <size=30>Was auch immer das bedeuten soll</size>.
+<size=80>Verbindung Getrennt</size>\nConnection lost (timed out).
+<size=80>Verbindung Getrennt</size>\nConnection lost (timed out).
+<size=80>Verbindung Getrennt</size>\nDas ist nicht unterstützt.\nOder sowas.
+<size=80>Verbindung Getrennt</size>\nDie Server Version ist nicht Kompatibel.
+<size=80>Verbindung Getrennt</size>\nFalsche Server Config.\nIch hoffe du liest das nicht, wärend du meinem Server beitritst. Ich habe mehrere Stunden gebraucht um die Configs zu Ändern
+<size=80>Verbindung Getrennt</size>\nDie IP ist Falsch?
+<size=80>Verbindung Getrennt</size>\nWIR WERDEN ANGEGRIFFEN!! ALLE AUF GEFAECHTSPOSITIONEN!!
+<size=80>Bitte warten</size>\n<size=35>Establishing connection...</size>
+<size=80>Runden Neustart!</size>\n<size=35>Runde startet neu...</size>
+<size=80>Bitte Warten</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])
+<size=80>Verbunden!</size>\n<size=35>Laden...</size>
+<size=35>Laden...</size>

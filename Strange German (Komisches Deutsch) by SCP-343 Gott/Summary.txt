@@ -1,0 +1,17 @@
+Runde zuende!
+SCPs haben die Facility uebernommen!
+Alles wieder Sicher!
+D BOIS GEWINNEN
+Uentschieden
+Sie haben [summary_scpfrags] Menschen umgebracht.
+Die Gefahr wurde Terminiert. Alles wieder Sicher.
+Alle Sicherheitskraeffte wurden Eleminiert.
+Es gibt keinen Gewinner.
+[summary_d_escaped] D Bois sind rausgekommen
+[summary_s_escaped] Nerds haben ueberlebt
+Der Alpha Warhead hat [summary_warhead_kills] Lebewesen getoetet.
+Der Warhead ist noch Intakt.
+Die Runde hat [summary_round_minutes] minutes und [summary_round_seconds] Sekunden gebraucht.
+[summary_scp_terminated] SCPs wurden getoetet 
+Neachste Runde in [summary_next_round_countdown] Sekunden.
+Du hast [summary_damages] Schaden gemacht und [summary_kills] Spieler in Real-Life umgebracht.

@@ -1,0 +1,62 @@
+Beitreten
+Schließen
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These changes are not affecting on performance. Leaving default values is recommended.
+Light rendering mode:\nWhen off - it makes the game look worse. It is recommended to disable it only if you have very low-end setup
+V-SYNC
+CONNECT
+Qualitaets Einstellungen
+Change shadow preferences. Settings these sliders at lower values may increase gameplay smoothness. 
+Main Menu
+LIGHT RENDERING MODE
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
+3. SCP-914
+TUTORIALS
+Warnung!
+Browse available servers
+Nicht nochmal anzeigen
+How would you like to connect?
+SERVER BROWSER
+OKAY
+SPIEL FINDEN
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIREKT VERBINDEN
+TECHNISCHER SUPPORT / FORUM
+Sound Lautstärke
+IP Adresse eingeben.
+Lade Pornos herunter
+Keine Server erreichbar
+ESC drücken zum Schließen/Abbrechen
+KEY BINDING
+----------
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Als Standart setzen
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

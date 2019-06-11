@@ -1,0 +1,33 @@
+Sprachlautstärke
+Ja
+Start Erzwingen
+SCP-106 RE-CONAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+Zusammenfassung:
+Stornieren
+I N V E N T A R
+Helligkeit
+Einstellungen
+TRENNEN
+Der Alpha Warhead ist ausgeschaltet!
+OOF! Deine Karte ist nicht gut genug.
+Sprachchat
+Du hast zu viel in deinem Inventar
+Sensitivitat der Maus
+HACKING
+Nimmt...
+Das erhoehen der Helligkeit <b>steigert die Laune des Spiels</b>.\nMach die Helligkeit also hoch!
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability 
+DOOR HAS BEEN LOCK-DOWN BY SCP-079
+Vollbild
+Bist du sicher das du den Server verlassen willst?
+Basic options. Full list of settings in the menu.
+Warte auf Spieler
+Zusammenfassung:
+Fortsetzen
+Haupt-Lautstärke
+Verbunden
+Du bist als Nerd entkommen und den Saftsäcken beigetreten.
+Du bist als D BOY rausgekommen und dem CHAOS!! beigetreten.
+Du bist:
+Rausgekommen in: [escape_minutes] Minuten und [escape_seconds] Sekunden

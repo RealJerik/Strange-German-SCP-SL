@@ -1,26 +1,26 @@
 Beitreten
 Schließen
-SHADOW RESOLUTION
-SETTINGS
-BASED ON <i>SCP: CONTAINMENT BREACH</i>
-BACK
-LANGUAGE
+Qualitaet der Schatten
+Einstellungen
+Bassiert auf <i>SCP: CONTAINMENT BREACH</i>
+Zurueck
+Sprache
 ANTIALIASING
 Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - enable synchronising with the refresh rate of the display device.
-JOIN GAME
+Spiel Beitreten
 POST\nPROCESSING
 CREDITS
-QUIT GAME
+RAUS HIER!!
 Fullscreen mode
 SCREEN SETTINGS
 COLOR CORRECTION
-Enter IP address...
+IP Adresse eingeben...
 SCREEN RESOLUTION
-PLAY
+Spielen
 PIXEL LIGHT COUNT
 SHADOW TYPE
 SHADOWS
-CREATE GAME
+Spiel Kreieren
 Change post-processing settings. These changes are not affecting on performance. Leaving default values is recommended.
 Light rendering mode:\nWhen off - it makes the game look worse. It is recommended to disable it only if you have very low-end setup
 V-SYNC
@@ -35,9 +35,9 @@ DETAILS
 3. SCP-914
 TUTORIALS
 Warnung!
-Browse available servers
+Nach verfuegbaren Servern suchen
 Nicht nochmal anzeigen
-How would you like to connect?
+WIE WILLST DU DICH VERBINDEN!?!?!?
 SERVER BROWSER
 OKAY
 SPIEL FINDEN
@@ -51,7 +51,7 @@ DIREKT VERBINDEN
 TECHNISCHER SUPPORT / FORUM
 Sound Lautstärke
 IP Adresse eingeben.
-Lade Pornos herunter
+Kaufe Pommes und Senf
 Keine Server erreichbar
 ESC drücken zum Schließen/Abbrechen
 KEY BINDING

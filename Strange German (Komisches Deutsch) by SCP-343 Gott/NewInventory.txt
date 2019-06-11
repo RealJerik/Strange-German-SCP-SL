@@ -1,31 +1,31 @@
-Janitor Keycard:Mit der Kannst du nichts als in 914 reinkommen
-Scientist Keycard:Wow, jetzt kannst du auch 012 und 096 aufmachen
-Research Supervisor Keycard:Mhmm.. Nicht Schlecht jetzt kannst du weningstens aus der Light raus
-Zone Manager Keycard:Praktisch schlechter als Die Research Supervisor- aber besser als die Scientist Keycard.
-Guard Keycard:Fuer ein Parr Armorys, Checkpoints und mehr nicht, glaube ich.
-MTF Cadet Keycard:Lol, wenn du als Cadet Spawnst kannst du nichtmal in die Facility 
-Containment Engineer Keycard:Du kannst nicht Raus, aber den Alpha Warhead zuenden und die Tuer von Larry aufmachen
-MTF Lieutenant Keycard:Du kommst in fast alle Armorys, nicht in die Intercom und Warhead + Larry sind fuer dich gesperrt
-MTF Commander Keycard:Verboten sind fuer dich Larry und Warhead. Mehr nicht. Viel Glueck, Commander!
-Facility Manager Keycard:Alles außer Armorys. Raus aus der Facility mit ihnen, Sir! 
-Chaos Insurgency Access Device: Kann das gleiche wie die Commander Karte, ist aber haesslicher
-O5-level Keycard: Die Karte ist Overpowered! Du kannst ueberall hin. Aber die Facility Manager Karte ist schoener!
+914 Karte:Mit der Kannst du nichts als in 914 reinkommen
+012 und 096 Karte:Wow, jetzt kannst du auch 012 und 096 aufmachen
+Checkpoint, 012 und 096 Karte:Mhmm.. Nicht Schlecht jetzt kannst du weningstens aus der Light raus
+Checkpoint Karte:Praktisch schlechter als Die Research Supervisor- aber besser als die Scientist Keycard.
+Checkpoint und Armory Karte:Fuer ein Parr Armorys, Checkpoints und mehr nicht, glaube ich.
+Saftsack Karte:Lol, wenn du als Cadet Spawnst kannst du nichtmal in die Facility 
+Alles außer Armory und Escape Karte:Du kannst nicht Raus, aber den Alpha Warhead zuenden und die Tuer von Larry aufmachen
+Großer Saftsack Karte:Du kommst in fast alle Armorys, nicht in die Intercom und Warhead + Larry sind fuer dich gesperrt
+Fetter Saftsack Karte:Verboten sind fuer dich Larry und Warhead. Mehr nicht. Viel Glueck, Commander!
+Alles Außer Armorys Karte:Alles außer Armorys. Raus aus der Facility mit ihnen, Sir! 
+Fette Saftsack Karte 2.0: Kann das gleiche wie die Commander Karte, ist aber haesslicher
+Alles Karte: Die Karte ist Overpowered! Du kannst ueberall hin. Aber die Facility Manager Karte ist schoener!
 Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:Hau mit dem Ding ab, das kann nichts!
-First AID Kit:Heilt dich.
-Flashlight:Trage das Licht in die Welt!
-Micro H.I.D.:Der Mobile high-intensity electrical discharge thrower wird SCPs in den A**** fi****.
-Coin:Wenn du irgendeinen Haendler findest koenntest du ihn vielleicht brauchen
-Cup:Unnuetz
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:Die MTF Waffe
-Project 90:Nur fuer Noobs und Cadets!
-Dropped 5.56:No description
-MP7:Get this garbage out of here!
-Logicer:Die Chaos-Waffe. Ziemlich Stark
-Frag Grenade:Macht alles Kaputt!
-Flashbang Grenade:Au! Mein Auge!
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:(Von der Micro Abgesehen) Die Staerkste Waffe im Spiel.
+Schlechteste Waffe ever:Hau mit dem Ding ab, das kann nichts!
+Erste Hilfe Dings:Heilt dich.
+Lichtdings:Trage das Licht in die Welt!
+MICRO:Der Mobile high-intensity electrical discharge thrower wird jeden Grillen
+KOTZE:Wenn du irgendeinen Haendler findest koenntest du ihn vielleicht brauchen
+GAY:Unnuetz
+ABRA KADABRA MEINE MUTTER IST MEIN VATER:Used to drop ammo & upgrade your weapons.
+POMMMES:Die MTF Waffe
+BOMBE:Nur fuer Noobs und Cadets!
+AMMO:No description
+OOF:Get this garbage out of here!
+LOGISTARIES:Die Chaos-Waffe. Ziemlich Stark
+KAPUTT:Macht alles Kaputt!
+FROST:Au! Mein Auge!
+BURGER:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+AMMO:No description.
+AMMO:No description.
+SCHOKOLADE:(Von der Micro Abgesehen) Die Staerkste Waffe im Spiel.

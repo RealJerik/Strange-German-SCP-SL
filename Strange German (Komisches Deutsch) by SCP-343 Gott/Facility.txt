@@ -1,7 +1,7 @@
 Sprachlautstärke
 Ja
 Start Erzwingen
-SCP-106 RE-CONAINMENT\nPROCEDURE OVERRIDE
+Wenn du das drueckst,\nstirbt Larry\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\nk\nl\nm\nusw..
 Invert Y-axis
 Zusammenfassung:
 Stornieren

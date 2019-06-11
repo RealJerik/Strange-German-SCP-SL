@@ -9,7 +9,7 @@ Alpha Warhead
 Detoniert
 Unbenutzt
 Die nächste Runde wird in [time] Sekunden starten.
-SPECIAL ABILITY
+Besondere Faehigkeit
 Portal Erstellen
 Portal Benutzen
 Du wurdest Geoofed

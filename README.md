@@ -1,0 +1,2 @@
+# Strange-German-SCP-SL
+Mein Eigenes Sprachpaket. Anwendung: Installiert den Ordner und Öffnet zwei File-Explorrer Fenster. Auf dem Ersten Fenster geht ihr zu euren Downloads und auf dem Zweiten tragt ihr oben in der Leiste folgendes ein:  C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations  Nun zieht ihr den Heruntergeladenen Ordner in das andere Fenster und das war's! Nun müsst ihr nurnoch Ingame unter Sprache Strange/Wierd German suchen und es auswählen.
